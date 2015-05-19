@@ -10,3 +10,4 @@ def ILOVEWHO( name):
 
 if __name__ == '__main__':
     ILOVEWHO('qingyun')
+    ILOVEWHO('YiFan')
